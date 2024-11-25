@@ -1,4 +1,4 @@
-# 👋 Welcome to **Endpoints AI**
+# 👋 Welcome to **Endpoints AI** 🙏
 
 We’re thrilled to have you here! This is the official GitHub profile for **Endpoints AI**, your AI-powered platform for building enterprise-grade solutions. 
 
