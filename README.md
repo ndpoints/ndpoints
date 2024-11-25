@@ -50,7 +50,7 @@ Ready to see what **Endpoints AI** can do for you? Visit our platform to:
 
 Have questions or ideas? We’d love to hear from you:
 - **Website**: [Endpoints AI](https://ndpoints.ai)
-- **Documentation**: [Endpoints AI Documentation](https://docs.ndpoints.ai)
+- **Guide**: [Documentation](https://docs.ndpoints.ai)
 - **Support**: [Contact Us](mailto:hello@ndpoints.ai)
 
 Thank you for visiting our profile. Let’s redefine backend development together with the power of AI. 🚀
